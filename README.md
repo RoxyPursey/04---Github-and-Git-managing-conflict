@@ -1,4 +1,4 @@
-Remote
+local
 Hello
 are
 we
